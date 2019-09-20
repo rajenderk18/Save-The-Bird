@@ -222,7 +222,7 @@ There is no variation or evolution in game-play throughout the game, as the obst
 
 #### Version: v0.1
 
-You can download the executable for window from here: <a href="https://github.com/rajenderk18/Save The Bird/releases/download/0.1/Save The Bird.exe">Save-The-Bird-v01.exe</a>
+You can download the executable for window from here: <a href="https://github.com/rajenderk18/Save-The-Bird/releases/download/0.1/Save-The-Bird.exe">Save-The-Bird-v01.exe</a>
 
 ## To-do
 
